@@ -13,11 +13,12 @@ server.R – Back end programming that contains the information to reference the
 global.R – Contains all functions and calls to data required to execute logic to predict words.
 
 Data Files
-Tri_Data.txt – Contains most common three word phrases from a 12% sampling of data provide for the course.
-Quad_Data.txt – Contains most common four-word phrases.
+->Tri_Data.txt – Contains most common three word phrases from a 12% sampling of data provide for the course.
+->Quad_Data.txt – Contains most common four-word phrases. 
 Pent_Data.txt – Contains most common five word phrases.
 Sext_Data.txt – Contains most common six word phrases.
 Bi_Data.txt – Contains most common two word phrases.   Not used for this application.
+-> File not included in github as it was over 25 megs
 
 Presentation
 capstone_pres_v2.Rpres – File used to create presentation located at. http://rpubs.com/mikeleemclau
